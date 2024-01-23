@@ -1,0 +1,1 @@
+In this project I will put together all I have learned so far on HTML: setting up HTML boilerplate, adding text, headers, images, links both relative and absolute, and using commit messages, among other activities! 
